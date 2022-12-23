@@ -3,7 +3,10 @@ The goal of this project recognizing handwritten digits from MNIST dataset by im
 ## MLP (MultiLayer Perceptron)
 
   ![](output.png)
-Test loss=0.013
-Test accuracy=0.9818
+  
+ Test accuracy=0.9818
+ ## CNN (Convulional Neural Network)
 
- ![]
+ ![](cnn.png)
+
+ Test accuracy=0.9907
